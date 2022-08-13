@@ -4,7 +4,7 @@ import './locationDisplay.css'
 
 const locationConfig={
     North:{
-        text:"hi, you are currently in North region",
+        text:"hi,dude you are currently in North region",
         picture:NS
         
     },
